@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "decent-pdf/cli"
+
+DecentPdf::CLI.start
